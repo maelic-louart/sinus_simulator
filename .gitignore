@@ -1,0 +1,19 @@
+# Specify filepatterns you want git to ignore.
+*.xml
+*.automg_exit
+*.abd
+*.tcl
+*.rpt
+*.aemf
+*.bc
+*.txt
+*.log
+*.vhd
+*.mk
+*.o
+*.exe
+*.zip
+*.v
+*.vh
+*.json
+*.aps

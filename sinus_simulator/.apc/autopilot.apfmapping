@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="sinus_simulator.h" path="/home/louart/Bureau/these/partie_pratique/experience/test_hls/sinus/vitis_hls/sinus_simulator.h"/>
+    <originFiles name="sinus_simulator.cpp" path="/home/louart/Bureau/these/partie_pratique/experience/test_hls/sinus/vitis_hls/sinus_simulator.cpp"/>
+    <originFiles name="sinus.cpp" path="/home/louart/Bureau/these/partie_pratique/experience/test_hls/sinus/vitis_hls/sinus.cpp"/>
+    <originFiles name="constante_generator.cpp" path="/home/louart/Bureau/these/partie_pratique/experience/test_hls/sinus/vitis_hls/constante_generator.cpp"/>
+    <originFiles name="addition.cpp" path="/home/louart/Bureau/these/partie_pratique/experience/test_hls/sinus/vitis_hls/addition.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="sinus_simulator_tb.cpp" path="/home/louart/Bureau/these/partie_pratique/experience/test_hls/sinus/vitis_hls/sinus_simulator_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
